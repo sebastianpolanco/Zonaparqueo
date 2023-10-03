@@ -1,0 +1,65 @@
+.btnReservar{
+  width: 40%;
+  margin-bottom: 0px;
+}
+.btnReservar{
+  border: none;
+  outline: none;
+  height: 25px;
+  background: #5DF96B;
+  color: #000;
+  font-size: 18px;
+  border-radius: 20px;
+}
+
+.btnReservar:hover {
+  cursor: pointer;
+  background: #ffc107;
+  color: #000;
+}
+
+.btnCancelar{
+  width: 40%;
+  margin-bottom: 0px;
+}
+.btnCancelar{
+  border: none;
+  outline: none;
+  height: 25px;
+  background: #F95D5D;
+  color: #000;
+  font-size: 18px;
+  border-radius: 20px;
+}
+
+.btnCancelar:hover {
+  cursor: pointer;
+  background: #ffc107;
+  color: #000;
+}
+
+
+.btnTerminar{
+  width: 40%;
+  margin-bottom: 0px;
+}
+.btnTerminar{
+  border: none;
+  outline: none;
+  height: 25px;
+  background: #58EFF7;
+  color: #000;
+  font-size: 18px;
+  border-radius: 20px;
+}
+
+.btnTerminar:hover {
+  cursor: pointer;
+  background: #ffc107;
+  color: #000;
+}
+.imgInfo:hover {
+  cursor: pointer;
+  background: #ffc107;
+  color: #000;
+}

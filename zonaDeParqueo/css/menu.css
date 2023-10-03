@@ -1,0 +1,48 @@
+body{
+	font-family: arial, helvetica;
+	background: #fff;
+	padding: 0;
+}
+
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #001532;
+	width: 80%;
+	max-width: 10000px;
+	margin: auto;
+}
+
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+}
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+.menu li a:hover{
+	background: #11C6C4;
+}
+.item_sesion{
+	float: right;
+}
+.tabla tr{
+	padding: 0px;
+	margin: 0px;
+	border: 1.5px;
+}
+.tabla td{
+	padding: 0px;
+	margin: 0px;
+	border: 1.5px;
+}
+
+.tdima {
+	padding: 0px;
+	margin: 0px;
+	background: #09566C;
+}
+
